@@ -1,0 +1,204 @@
+.col-md-2{
+		height:90px;
+		border:15px solid silver;
+		padding-top:10px ;
+		width:260px;
+
+		}
+.a{
+	height:300px;
+	width:1040px;
+	background-color:silver;
+	margin-top: 20px;
+}
+h4{
+	padding-right: 720px;
+}
+.b{
+	padding-right: 850px;
+}
+.c{
+	font-size: 30px;
+	color:deepskyblue;
+	position:relative;
+	right:70px;
+
+}
+.s{
+	position:relative;
+	left:60px;
+	bottom:15px;
+	font-weight: bold;
+}
+.p{
+	position:relative;
+	left:60px;
+	bottom:15px;
+}
+.d{
+	font-size: 30px;
+	color:orange;
+	position:relative;
+	right:70px;
+}
+.e{
+	font-size: 30px;
+	color:green;
+	position:relative;
+	right:60px;
+}
+.f{
+	font-size: 30px;
+	color:red;
+	position:relative;
+	right:70px;
+
+}
+.g{
+	font-size: 30px;
+	color:red;
+	position:relative;
+	left:70px;
+	bottom:60px;
+}
+.h{
+	font-size: 30px;
+	color:green;
+	position:relative;
+	left:70px;
+	bottom:60px;
+}
+.i{
+	font-size: 30px;
+	color:orange;
+	position:relative;
+	left:70px;
+	bottom:60px;
+}
+.j{
+	font-size: 30px;
+	color:deepskyblue;
+	position:relative;
+	left:70px;
+	bottom:60px;
+}
+.sp{
+	position:relative;
+	right:80px;
+	color:red;
+}
+.p1{
+	position:relative;
+	right:60px;
+
+}
+.p2{
+	position:relative;
+	right:50px;
+
+}
+.p3{
+	position:relative;
+	right:57px;
+	bottom:15px;
+}
+.sp1{
+	position:relative;
+	right:80px;
+	color:green;
+}
+.sp2{
+	position:relative;
+	right:80px;
+	color:orange;
+}
+.sp3{
+	position:relative;
+	right:80px;
+	color:deepskyblue;
+}
+.k{
+	font-size: 30px;
+	color:deepskyblue;
+	position:relative;
+	left:70px;
+	bottom:60px;
+
+}
+.l{
+	font-size: 30px;
+	color:orange;
+	position:relative;
+	left:70px;
+	bottom:60px;
+}
+.m{
+	font-size: 35px;
+	color:green;
+	position:relative;
+	left:70px;
+	bottom:63px;
+}
+.n{
+	font-size: 30px;
+	color:red;
+	position:relative;
+	left:70px;
+	bottom:60px;
+	
+	
+}
+.q{
+height:5px;
+width:200px;
+position: relative;
+bottom: 54px;
+}
+.q1{
+height:5px;
+width:200px;
+position: relative;
+bottom: 54px;
+
+}
+.q2{
+height:5px;
+width:200px;
+position: relative;
+bottom: 58px;
+
+}
+.q3{
+height:5px;
+width:200px;
+position: relative;
+bottom: 54px;
+
+}
+.sp4{
+	position:relative;
+	right:80px;
+	color:skyblue;
+	bottom:10px;
+}
+.sp5{
+	position:relative;
+	right:85px;
+	color:darkorange;
+	bottom:10px;
+}
+.sp7{
+	position:relative;
+	right:80px;
+	color:green;
+	bottom:10px;
+}
+.sp6{
+	position:relative;
+	right:80px;
+	color:red;
+	bottom:10px;
+}
+
+
+
